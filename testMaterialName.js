@@ -1,4 +1,3 @@
-<script>
 
 (function(){
    var interval = setInterval(function(){
@@ -15,4 +14,3 @@
   
 })();
  
-</script>
